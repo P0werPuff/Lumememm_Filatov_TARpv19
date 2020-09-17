@@ -41,13 +41,13 @@ namespace Lumememm_Filatov_TARpv19
 
             bt1 = new Button() //Кнопка, которая прячет снеговика
             {
-                Text = "Спрятать снеговика",
+                Text = "Спрятать",
                 HorizontalOptions = LayoutOptions.Center
             };
 
             bt2 = new Button() //Кнопка, чтобый снеговик появился
             {
-                Text = "Снеговик появись",
+                Text = "Появись",
                 HorizontalOptions = LayoutOptions.Center
             };
 
