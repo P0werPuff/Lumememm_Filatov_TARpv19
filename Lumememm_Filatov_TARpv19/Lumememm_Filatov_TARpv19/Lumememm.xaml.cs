@@ -18,7 +18,7 @@ namespace Lumememm_Filatov_TARpv19
         {
             head = new Frame() //Вверх снеговики
             {
-                BackgroundColor = Color.Gray,
+                BackgroundColor = Color.Aqua,
                 CornerRadius = 90,
                 Padding = 50,
                 HorizontalOptions = LayoutOptions.Center
@@ -26,7 +26,7 @@ namespace Lumememm_Filatov_TARpv19
 
             body = new Frame() //Туловище снеговика
             {
-                BackgroundColor = Color.Gray,
+                BackgroundColor = Color.Aqua,
                 CornerRadius = 90,
                 Padding = 70,
                 HorizontalOptions = LayoutOptions.Center
@@ -34,7 +34,7 @@ namespace Lumememm_Filatov_TARpv19
 
             feet = new Frame() //Низ снеговика
             {
-                BackgroundColor = Color.Gray,
+                BackgroundColor = Color.Aqua,
                 Padding = 80,
                 HorizontalOptions = LayoutOptions.Center
             };

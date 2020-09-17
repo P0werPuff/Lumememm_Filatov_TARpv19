@@ -10,7 +10,7 @@ namespace Lumememm_Filatov_TARpv19
         {
             InitializeComponent();
 
-            MainPage = new Lumememm();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()

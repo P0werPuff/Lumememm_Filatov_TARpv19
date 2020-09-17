@@ -25,7 +25,7 @@ namespace Lumememm_Filatov_TARpv19
             AbsoluteLayout.SetLayoutBounds(greenBox, new Rectangle(0.5, 0.4, 200, 200));
             AbsoluteLayout.SetLayoutFlags(greenBox, AbsoluteLayoutFlags.PositionProportional);
 
-            AbsoluteLayout.SetLayoutBounds(blueBox, new Rectangle(0.5, 0.4, 200, 200));
+            AbsoluteLayout.SetLayoutBounds(blueBox, new Rectangle(0.8, 0.4, 200, 200));
             // пропорциональные координаты и размеры
             AbsoluteLayout.SetLayoutFlags(blueBox, AbsoluteLayoutFlags.All);
 
